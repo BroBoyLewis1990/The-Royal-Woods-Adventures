@@ -1,0 +1,44 @@
+@font-face: {
+		font-family: 'Skramp';
+		src: url(desktop/Fonts I use/Skramp.ttf);
+		font-family: "CN Powerhouse";
+		font-family: "CN Powerhouse Headline";
+}
+.container{
+	width: 100vw;
+	height: 100vh;
+	background-image: url(images/loud_house_background_04_by_christopia1984_dd246xa-fullview.png);
+	background position: center;
+	background-size: cover;
+	padding: 0;
+	position: relative;
+
+}
+.logo {
+	padding: 20px 0;
+	width: 180px;
+	cursor: pointer;
+}
+.content{
+	top: 50%;
+	position: absolute;
+	transform: translateY(-50%);
+	color: #fff;
+}
+.content h1{
+	font-size: 64px;
+	font-weight: 50px;
+	font-family: 'CN Powerhouse';
+	color: #fe5000;
+}
+
+.content p{
+	font-family: "CN Powerhouse Headline";
+	color: yellow;
+}
+.Lucas{
+	width: 330px;
+	position: absolute;
+	right: 10%;
+	bottom: 10%;
+}
