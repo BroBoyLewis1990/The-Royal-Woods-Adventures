@@ -1,4 +1,4 @@
-@font-face: {
+<!--@font-face: {
 		font-family: 'Skramp';
 		src: url(desktop/Fonts I use/Skramp.ttf);
 		font-family: "CN Powerhouse";
@@ -41,4 +41,60 @@
 	position: absolute;
 	right: 10%;
 	bottom: 10%;
+}-->
+
+@font-face {
+	font-family: 'Skramp';
+	src: url(desktop/Fonts I use/Skramp.ttf);
 }
+
+@font-face {
+	font-family: "CN Powerhouse";
+}
+
+@font-face {
+	font-family: "CN Powerhouse Headline";
+}
+
+.container {
+	width: 100vw;
+	height: 100vh;
+	color: #ADD8E6;
+	background-position: center;
+	background-size: cover;
+	padding: 0;
+	position: relative;
+}
+
+.logo {
+	padding: 20px 0;
+	width: 180px;
+	cursor: pointer;
+}
+
+.content {
+	top: 50%;
+	position: absolute;
+	transform: translateY(-50%);
+	color: #fff;
+}
+
+.content h1 {
+	font-size: 64px;
+	font-weight: 500;
+	font-family: 'CN Powerhouse';
+	color: #fe5000;
+}
+
+.content p {
+	font-family: "CN Powerhouse Headline";
+	color: yellow;
+}
+
+.Lucas {
+	width: 330px;
+	position: absolute;
+	right: 10%;
+	bottom: 10%;
+}
+
