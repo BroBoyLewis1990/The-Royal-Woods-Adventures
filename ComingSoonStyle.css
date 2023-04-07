@@ -39,12 +39,12 @@
 .content h1 {
 	font-size: 64px;
 	font-weight: 500;
-	font-family: 'CN Powerhouse';
+	font-family: 'helvetica';
 	color: #fe5000;
 }
 
 .content p {
-	font-family: "CN Powerhouse Headline";
+	font-family: "helvetica";
 	color: yellow;
 }
 
