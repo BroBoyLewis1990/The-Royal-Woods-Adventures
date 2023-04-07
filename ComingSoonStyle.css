@@ -14,9 +14,10 @@
 }
 
 .container {
+	.container{
 	width: 100vw;
 	height: 100vh;
-	color: #00254d;
+	color: #ADD8E6; /* colon here instead of semicolon */
 	background-position: center;
 	background-size: cover;
 	padding: 0;
