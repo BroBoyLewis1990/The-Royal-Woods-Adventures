@@ -1,16 +1,16 @@
 @font-face {
 	font-family: 'Skramp';
-	src: url(desktop/Fonts I use/Skramp.ttf);
+	src: url(desktop/Fonts-I-use/Skramp.ttf);
 }
 
 @font-face {
-	font-family: 'CN Powerhouse';
-	src: url(desktop/Fonts I use/CN Powerhouse.ttf);
+	font-family: "CN Powerhouse";
+	src: url(desktop/Fonts-I-use/CN-Powerhouse.ttf);
 }
 
 @font-face {
-	font-family: 'CN Powerhouse Headline';
-	src: url(desktop/Fonts I use/CN Powerhouse Headline.ttf);
+	font-family: "CN Powerhouse Headline";
+	src: url(desktop/Fonts-I-use/CN-Powerhouse-Headline.ttf);
 }
 
 .container {
